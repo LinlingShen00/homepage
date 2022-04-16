@@ -12,11 +12,11 @@ tags: [居家干预]
 
 **音位拆分**  
 家长读出字音之后，孩子说出去掉声母之后的读音，如家长说cài（菜），孩子需要说出ài（爱）。  开始时，家长可以在纸上写下拼音，然后把声母擦去，问剩下的读音是什么。也可以详细拆分解释一下，如拆分zǎo-z，ǎo；问孩子把z去掉变成什么（答案：ǎo），把ǎo去掉变成什么（答案：z）。  
-![音位拆分示意](https://github.com/LinlingShen00/homepage/blob/main/assets/img/postimg/initial.gif){: .mx-auto.d-block :}
-
+![音位拆分示意]("{{site.url}}/assets/img/postimg/initial.gif"){: .mx-auto.d-block :}
+<!-- https://linlingshen00.github.io/homepage/assets/img/postimg/initial.gif -->
 **音位替换**  
 家长说出一个字，并说出与这个字的声母不一样的另一个声母/或者另一个韵母，孩子用新的声母和原来的韵母组合，或者新的韵母和原来的声母组合，说出另一个字。  比如说，家长说huì（会）和k，孩子说出kuì（愧）；家长说lún（伦）和ǎo，孩子说出lǎo（老）。  
-![音位替换示意](/assets/img/postimg/replace.gif){: .mx-auto.d-block :}
+![音位替换示意](https://linlingshen00.github.io/homepage/assets/img/postimg/replace.gif){: .mx-auto.d-block :}
 
 ## 2.学习声旁（部首）家族
 汉字是形声字，**声旁**就是用来表示汉字**读音**的那一部分；**形旁**就是用来表示**意思**的一部分。  
@@ -30,7 +30,7 @@ tags: [居家干预]
 - 声调、声母和韵母完全相同：亭、婷；宾、缤
 - 声调不同，声母和韵母均相同：店(diàn)，踮(diǎn)；青、晴
 - 声母不同，韵母相同：垂、睡；非、辈
-- 韵母不同，声母相同：回、徊(huái)；r
+- 韵母不同，声母相同：回、徊(huái)；
 - 声母、韵母均不同：非、徘(pái)；占、贴
 
 孩子可以通过学习**声旁家族**，来增强声旁意识，比如说，**以一个声旁为一组，学习全部含有该声旁的字**。以声旁“主”和“爰”为例——  
