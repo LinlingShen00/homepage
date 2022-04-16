@@ -1,3 +1,5 @@
+chectsheet: https://github.com/daattali/beautiful-jekyll/blob/master/_posts/2020-02-28-test-markdown.md
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
