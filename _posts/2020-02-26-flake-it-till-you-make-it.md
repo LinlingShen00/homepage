@@ -12,7 +12,7 @@ tags: [居家干预]
 
 **音位拆分**  
 家长读出字音之后，孩子说出去掉声母之后的读音，如家长说cài（菜），孩子需要说出ài（爱）。  开始时，家长可以在纸上写下拼音，然后把声母擦去，问剩下的读音是什么。也可以详细拆分解释一下，如拆分zǎo-z，ǎo；问孩子把z去掉变成什么（答案：ǎo），把ǎo去掉变成什么（答案：z）。  
-![音位拆分示意](https://linlingshen00.github.io/homepage/assets/img/postimg/initial.gif"){: .mx-auto.d-block :}
+![音位拆分示意](https://linlingshen00.github.io/homepage/assets/img/postimg/initial.gif){: .mx-auto.d-block :}
 
 **音位替换**  
 家长说出一个字，并说出与这个字的声母不一样的另一个声母/或者另一个韵母，孩子用新的声母和原来的韵母组合，或者新的韵母和原来的声母组合，说出另一个字。  比如说，家长说huì（会）和k，孩子说出kuì（愧）；家长说lún（伦）和ǎo，孩子说出lǎo（老）。  
