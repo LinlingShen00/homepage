@@ -1,17 +1,65 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: 给家长的建议：如何帮助读写障碍儿童（一）
+subtitle: 提升汉语识字水平
+cover-img: /assets/img/kid.png
+thumbnail-img: /assets/img/help.jpg
+share-img: /assets/img/kid.png
+tags: [居家干预]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## 1.提高汉语的语音意识
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**音位拆分**  
+家长读出字音之后，孩子说出去掉声母之后的读音，如家长说cài（菜），孩子需要说出ài（爱）。  开始时，家长可以在纸上写下拼音，然后把声母擦去，问剩下的读音是什么。也可以详细拆分解释一下，如拆分zǎo-z，ǎo；问孩子把z去掉变成什么（答案：ǎo），把ǎo去掉变成什么（答案：z）。  
+![Crepe](/assets/img/post%20img/initial.gif){: .mx-auto.d-block :}
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+**音位替换**  
+家长说出一个字，并说出与这个字的声母不一样的另一个声母/或者另一个韵母，孩子用新的声母和原来的韵母组合，或者新的韵母和原来的声母组合，说出另一个字。  比如说，家长说huì（会）和k，孩子说出kuì（愧）；家长说lún（伦）和ǎo，孩子说出lǎo（老）。  
+![Crepe](/assets/img/post%20img/replace.gif){: .mx-auto.d-block :}
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+## 2.学习声旁（部首）家族
+汉字是形声字，**声旁**就是用来表示汉字**读音**的那一部分；**形旁**就是用来表示**意思**的一部分。  
+比如说【喧哗】的【哗】：
+![Crepe](/assets/img/post%20img/hua.png){: .mx-auto.d-block :}  
+- 声旁是【华】，所以读音与【华】是相同的；
+- 形旁是【口】，所以这个字与*嘴巴*有关。
+因此，我们可以根据汉字的声旁和形旁，大致猜测这个字的读音和含义。
+
+然而，声旁表音不精确。像【喧哗】这两个字一样能够与声旁读音完全相同的字不多见，只占所有汉字的7%左右。大多数声旁可以为汉字提供部分读音参考，小部分声旁与汉字读音完全无关。因此，一共有5种情况：  
+- 声调、声母和韵母完全相同：亭、婷；宾、缤
+- 声调不同，声母和韵母均相同：店(diàn)，踮(diǎn)；青、晴
+- 声母不同，韵母相同：垂、睡；非、辈
+- 韵母不同，声母相同：回、徊(huái)；r
+- 声母、韵母均不同：非、徘(pái)；占、贴
+
+孩子可以通过学习**声旁家族**，来增强声旁意识，比如说，**以一个声旁为一组，学习全部含有该声旁的字**。以声旁“主”和“爰”为例——  
+
+![Crepe](/assets/img/post%20img/zhu.png){: .mx-auto.d-block :} 
+讲解声旁【主】：主，甲骨文字形，象点燃的火把。下面是木材。“主”是“炷”的本字。  
+现在含有这个声旁的字的主要的发音都是以声旁“主”zhǔ的变调为主，大多都是规则或半规则字，但也会出现“来往”的“往”这种声母很韵母都不相同的不规则字。
+
+![Crepe](/assets/img/post%20img/yuan.png){: .mx-auto.d-block :} 
+讲解声旁【爰】yuán：爰，于是/更换的意思。  
+援助、名媛（媛的本意是美女，名媛是一般是指那些出身名门、有才有貌、又经常出入时尚社交场的美女）都是读音与声旁完全相同的规则字。  
+温暖、缓慢是读音与声旁只有韵母uan相同的半规则字。
+
+## 3.学习形旁（偏旁）
+让孩子写出偏旁，并写出尽可能多的他知道的**含有那个偏旁的字，并组词**  
+以形旁【冫】为例：读冰，常叫两点水，可以表示和温度低或水有关的事物。  
+![Crepe](/assets/img/post%20img/shui.png){: .mx-auto.d-block :} 
+让儿童总结一下，**这些字大多都是和什么有关**。（答案：和水或温度低有关）。  
+找出例外字：*次、准、减、况*。（解释：有些汉字的含义和偏旁的含义相关，有的会无关。）  
+
+## 4.提高汉语的语素意识
+**学习同音字**：汉语中存在大量同音字，有些读写障碍的孩子容易对同音字感到困惑，因此容易写错别字。家长可以通过两个小练习帮助孩子识别、书写同音字。
+- **说读音，写汉字**。比如说家长说bā，孩子要写出*八、巴、吧、芭、疤*，让孩子理解“bā”也会产生很多不同的字，继续鼓励孩子对每个字组更多的词并用纸笔写出来。
+- **辨认同音字**：家长说出一个包含同音字的词，让孩子判断或者书写这些字。比如判断【羡mù】的【mù】是如何写的。对于书写能力较低的孩子，可以先从辨认开始，比如判断是【幕】还是【慕】。对于已有一定书写技能的孩子，可以直接写下来，写完后家长引导孩子写出其他具有相同读音的字，并且组词。
+
+**学习同形字**：判断相同字在不同组词中的含义是否相同。  
+- **判断同形字含义**：比如说，判断 *清水*、*清楚* 两个“**清**”字的含义是否相同。第一个清是指“水或其他液体、气体纯净透明，没有混杂的东西，与‘**浊**’相对”；第二个清的意思是“明白、明晰”。
+- **为每个意思组词**：鼓励孩子根据每个意思组词，判断所组词是否正确，如第一个意思可以组词“清泉、清流、清新”，第二个含义可以组词“清晰、清醒、清亮”。
+
+**学习复合词**：复合词是指有两个或以上不同含义的字词，组合在一起形成的新词，如【洗手液】一词就由【洗手】和【液(体)】两个词组成。  
+- **拆分词语**：这个练习能让孩子意识到许多生活中常见的词语是由更小的词语组合而成的。比如可以指着生活中的一些常见事物，比如问“鼠标垫”“门帘”这个词是怎么来的。
+- **组合词语**：让孩子能够自己将几个词语组合成有意义的词语。比如，“装花的瓶子叫花瓶，那装油的罐子叫什么？”
