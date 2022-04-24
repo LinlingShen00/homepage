@@ -12,17 +12,6 @@
     
     
       <item>
-        <title>Sample blog post</title>
-        <description>
-          Each post also has a subtitle - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
-        </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
-      </item>
-    
-      <item>
         <title>给家长的建议：如何帮助读写障碍儿童（一）</title>
         <description>
           提升汉语识字水平 - 
@@ -51,7 +40,7 @@
   声调、声母和韵母完全相同：亭、婷；宾、缤
   声调不同，声母和韵母均相同：店(diàn)，踮(diǎn)；青、晴
   声母不同，韵母相同：垂、睡；非、辈
-  韵母不同，声母相同：回、徊(huái)；r
+  韵母不同，声母相同：回、徊(huái)；
   声母、韵母均不同：非、徘(pái)；占、贴
 
 
@@ -93,9 +82,9 @@
 
 
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Sat, 16 Apr 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-04-16-parentadvice1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-04-16-parentadvice1/</guid>
       </item>
     
   </channel>
